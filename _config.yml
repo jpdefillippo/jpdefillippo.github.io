@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jpdefillippo.github.io
+title: jpdefillippo
+tagline: Just testing
+description: No, seriously. Just testing...
+paginate: 5
